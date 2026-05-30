@@ -1,0 +1,1 @@
+{"intent": "general", "resp_len": 91, "thoughts": [{"agent": "意图识别", "status": "completed", "input": "你好", "output": "一般对话"}, {"agent": "整合回复", "status": "completed", "input": "意图: general", "output": "回复已生成 (91字)"}]}

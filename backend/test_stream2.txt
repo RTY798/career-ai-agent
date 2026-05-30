@@ -1,0 +1,6 @@
+event: error
+data: {"error": "cannot access local variable 'state' where it is not associated with a value"}
+
+event: done
+data: {}
+
